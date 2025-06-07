@@ -254,7 +254,7 @@ export default function ContactSection() {
           <Card className="p-8 border-0 shadow-lg">
             <div className="flex items-center justify-center space-x-2 mb-4">
               <Globe className="w-6 h-6 text-ixora-blue" />
-              <h3 className="text-2xl font-bold text-ixora-gray-dark">Global Technology Network</h3>
+              <h3 className="text-2xl font-bold text-ixora-gray-dark">Tech-Driven Community Network</h3>
             </div>
             <p className="text-ixora-gray mb-6 max-w-2xl mx-auto">
               With technology centers across India and partnerships worldwide, 
@@ -262,16 +262,16 @@ export default function ContactSection() {
             </p>
             <div className="grid grid-cols-2 md:grid-cols-4 gap-6 text-center">
               <div>
-                <div className="text-2xl font-bold text-ixora-blue">15+</div>
-                <div className="text-sm text-ixora-gray">Cities</div>
+                <div className="text-2xl font-bold text-ixora-blue">1700+</div>
+                <div className="text-sm text-ixora-gray">Employess</div>
               </div>
               <div>
-                <div className="text-2xl font-bold text-ixora-blue">50+</div>
-                <div className="text-sm text-ixora-gray">Tech Specialists</div>
-              </div>
-              <div>
-                <div className="text-2xl font-bold text-ixora-blue">1000+</div>
+                <div className="text-2xl font-bold text-ixora-blue">300+</div>
                 <div className="text-sm text-ixora-gray">Deployments</div>
+              </div>
+              <div>
+                <div className="text-2xl font-bold text-ixora-blue">24/7</div>
+                <div className="text-sm text-ixora-gray">Support</div>
               </div>
               <div>
                 <div className="text-2xl font-bold text-ixora-blue">99.5%</div>

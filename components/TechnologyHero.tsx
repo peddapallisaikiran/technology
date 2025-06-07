@@ -85,7 +85,7 @@ export default function TechnologyHero() {
             className="grid grid-cols-1 md:grid-cols-3 gap-8 mt-16 max-w-4xl mx-auto"
           >
             <div className="text-center">
-              <div className="text-4xl font-bold text-ixora-blue">500+</div>
+              <div className="text-4xl font-bold text-ixora-blue">50+</div>
               <div className="text-ixora-gray text-lg">Smart Facilities</div>
             </div>
             <div className="text-center">

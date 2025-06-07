@@ -65,12 +65,12 @@ const solutions = [
   },
   {
     icon: Wifi,
-    title: "IoT Sensor Networks for Smart Buildings",
-    description: "Comprehensive IoT deployment for monitoring air quality, occupancy, energy usage, and environmental conditions in real-time.",
-    features: ["Smart sensors", "Environmental monitoring", "Energy optimization"],
+    title: "IoT Sensor Networks for Vehic les",
+    description: "Comprehensive IoT deployment for monitoring mobile vehicles and their occupancy, fuel usage, environmental conditions and reports in real-time.",
+    features: ["Smart sensors", "Vehicle downtime detection", "Remote immobilization and driver management"],
     category: "IoT",
     color: "bg-red-500",
-    image: "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&h=300&fit=crop"
+    image: "https://ik.imagekit.io/vxkxgjigx/Mobile%20App%20Presentation%20(400%20x%20300%20px)%20(Presentation%20(43)).jpg?updatedAt=1749277283207"
   }
 ]
 
